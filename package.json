@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build": "git "
   },
-  "author": "Jonas Schedtmann",
+  "author": "Cyrine Laajili",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.0-beta.1",
